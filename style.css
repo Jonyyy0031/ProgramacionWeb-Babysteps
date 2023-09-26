@@ -1,0 +1,37 @@
+*{
+    font-size: large;
+}
+p{
+    color: blue;
+    border: 1px solid red;
+}
+#texto{
+    color: red;
+}
+.texto-verde{
+    color: aquamarine;
+}
+.centro{
+    text-align: center;
+}
+h1{
+    color: #8C1FAE;
+    border: 1px solid red;
+}
+/* body{
+    background-color: antiquewhite;
+    background-image: url(https://camo.githubusercontent.com/ecb408d3eff24d1a8825ef31a22ba7171d1f970e8b6a6ca72bd7e7daa9ffd9eb/68747470733a2f2f692e706f7374696d672e63632f6d32596d397158742f3133303533333936382d64373937653833642d653634332d346336322d393236342d3764343663326236376234382e706e67);
+    background-repeat: no-repeat;
+} */
+body{
+    background-color: beige;
+    margin: 50px;
+}
+.Margin1{
+    margin: 100px;
+    border: black solid;
+}
+.Margin1 > p{
+    margin: 15px;
+    padding: 10px;
+}
